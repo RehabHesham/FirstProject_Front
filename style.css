@@ -6,3 +6,7 @@ h1{
 div{
     background-color: aqua;
 }
+
+p{
+    padding: 10px;
+}
